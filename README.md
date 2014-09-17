@@ -18,6 +18,10 @@ Language and Resources:
     JavaFX graphics library.
         There is a .jar file called jfxrt.jar located in your Java install location/jre/lib. This MUST be included in your classpath if running the game via command line, or if using eclipse add a new user library for this jfxrt.jar file.
 
+Issues:
+	Not up to date with JavaFX 8
+	Networking does not work
+
 Running the Game:
     Using the command line
         1) Make sure jfxrt.jar is added to your CLASSPATH system variable.
