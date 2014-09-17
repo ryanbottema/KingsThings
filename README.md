@@ -1,11 +1,11 @@
 Kings 'n Things
 ===
 
-TEAM 17
-COMP 3004 Winter 2014
-Tyler Babin
-Ryan Bottema
-Brandon Schurman
+TEAM 17,
+COMP 3004 Winter 2014,
+Tyler Babin,
+Ryan Bottema,
+Brandon Schurman,
 
 
 
