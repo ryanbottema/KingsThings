@@ -1,0 +1,123 @@
+Creature,Images/Mountains_BrownDragon.png,Images/Piece_back.png,Brown Dragon,MOUNTAIN,3,true,false,false,false
+Creature,Images/Mountains_BrownKnight.png,Images/Piece_back.png,Brown Knight,MOUNTAIN,4,false,false,true,false
+Creature,Images/Mountains_Cyclops.png,Images/Piece_back.png,Cyclops,MOUNTAIN,5,false,false,false,false
+Creature,Images/Mountains_Dwarves2R.png,Images/Piece_back.png,Dwarves,MOUNTAIN,2,false,false,false,true
+Creature,Images/Mountains_Dwarves3C.png,Images/Piece_back.png,Dwarves,MOUNTAIN,3,false,false,true,false
+Creature,Images/Mountains_Dwarves3R.png,Images/Piece_back.png,Dwarves,MOUNTAIN,3,false,false,false,true
+Creature,Images/Mountains_Giant.png,Images/Piece_back.png,Giant,MOUNTAIN,4,false,false,false,true
+Creature,Images/Mountains_GiantCondor.png,Images/Piece_back.png,Giant Condor,MOUNTAIN,3,true,false,false,false
+Creature,Images/Mountains_GiantRoc.png,Images/Piece_back.png,Giant Roc,MOUNTAIN,3,true,false,false,false
+Creature,Images/Mountains_Goblins.png,Images/Piece_back.png,Goblins,MOUNTAIN,1,false,false,false,false
+Creature,Images/Mountains_GreatEagle.png,Images/Piece_back.png,Great Eagle,MOUNTAIN,2,true,false,false,false
+Creature,Images/Mountains_GreatHawk.png,Images/Piece_back.png,Great Hawk,MOUNTAIN,1,true,false,false,false
+Creature,Images/Mountains_LittleRoc.png,Images/Piece_back.png,Little Roc,MOUNTAIN,2,true,false,false,false
+Creature,Images/Mountains_MountainLion.png,Images/Piece_back.png,Mountain Lion,MOUNTAIN,2,false,false,false,false
+Creature,Images/Mountains_MoutainMen.png,Images/Piece_back.png,Mountain Men,MOUNTAIN,1,false,false,false,false
+Creature,Images/Mountains_Ogre.png,Images/Piece_back.png,Ogre,MOUNTAIN,2,false,false,false,false
+Creature,Images/Mountains_Troll.png,Images/Piece_back.png,Troll,MOUNTAIN,4,false,false,false,false
+Creature,Images/Desert_BabyDragon.png,Images/Piece_back.png,Baby Dragon,DESERT,3,true,false,false,false
+Creature,Images/Desert_Buzzard.png,Images/Piece_back.png,Buzzard,DESERT,1,true,false,false,false
+Creature,Images/Desert_CamelCorps.png,Images/Piece_back.png,Camel Corps,DESERT,3,false,false,false,false
+Creature,Images/Desert_Dervish.png,Images/Piece_back.png,Dervish,DESERT,2,false,true,false,false
+Creature,Images/Desert_DesertBat.png,Images/Piece_back.png,Desert Bat,DESERT,1,true,false,false,false
+Creature,Images/Desert_Djinn.png,Images/Piece_back.png,Djinn,DESERT,4,false,true,false,false
+Creature,Images/Desert_DustDevil.png,Images/Piece_back.png,Dust Devil,DESERT,4,false,false,false,false
+Creature,Images/Desert_GiantSpider.png,Images/Piece_back.png,Giant Spider,DESERT,1,false,false,false,false
+Creature,Images/Desert_GiantWasp2.png,Images/Piece_back.png,Giant Wasp,DESERT,2,true,false,false,false
+Creature,Images/Desert_GiantWasp4.png,Images/Piece_back.png,Giant Wasp,DESERT,4,true,false,false,false
+Creature,Images/Desert_Griffon.png,Images/Piece_back.png,Griffon,DESERT,2,true,false,false,false
+Creature,Images/Desert_Nomads.png,Images/Piece_back.png,Nomads,DESERT,1,false,false,false,false
+Creature,Images/Desert_OldDragon.png,Images/Piece_back.png,Old Dragon,DESERT,4,true,true,false,false
+Creature,Images/Desert_Sandworm.png,Images/Piece_back.png,Sandworm,DESERT,3,false,false,false,false
+Creature,Images/Desert_Skeletons.png,Images/Piece_back.png,Skeletons,DESERT,1,false,false,false,false
+Creature,Images/Desert_Sphinx.png,Images/Piece_back.png,Sphinx,DESERT,4,false,true,false,false
+Creature,Images/Desert_Vultures.png,Images/Piece_back.png,Vultures,DESERT,1,true,false,false,false
+Creature,Images/Desert_YellowKnight.png,Images/Piece_back.png,Yellow Knight,DESERT,3,false,false,true,false
+Creature,Images/Forest_Bandits.png,Images/Piece_back.png,Bandits,FOREST,2,false,false,false,false
+Creature,Images/Forest_Bears.png,Images/Piece_back.png,Bears,FOREST,2,false,false,false,false
+Creature,Images/Forest_BigFoot.png,Images/Piece_back.png,Big Foot,FOREST,5,false,false,false,false
+Creature,Images/Forest_Druid.png,Images/Piece_back.png,Druid,FOREST,3,false,true,false,false
+Creature,Images/Forest_Dryad.png,Images/Piece_back.png,Dryad,FOREST,1,false,true,false,false
+Creature,Images/Forest_ElfMage.png,Images/Piece_back.png,Elf Mage,FOREST,2,false,true,false,false
+Creature,Images/Forest_Elves2.png,Images/Piece_back.png,Elves,FOREST,2,false,false,false,true
+Creature,Images/Forest_Elves3.png,Images/Piece_back.png,Elves,FOREST,3,false,false,false,true
+Creature,Images/Forest_FlyingSquirrel1.png,Images/Piece_back.png,Fying Squirrel,FOREST,1,true,false,false,false
+Creature,Images/Forest_FlyingSquirrel2.png,Images/Piece_back.png,Fying Squirrel,FOREST,2,true,false,false,false
+Creature,Images/Forest_Forester.png,Images/Piece_back.png,Forester,FOREST,2,false,false,false,true
+Creature,Images/Forest_GreatOwl.png,Images/Piece_back.png,Great Owl,FOREST,2,true,false,false,false
+Creature,Images/Forest_GreenKnight.png,Images/Piece_back.png,Green Knight,FOREST,4,false,false,true,false
+Creature,Images/Forest_KillerRaccoon.png,Images/Piece_back.png,Killer Racoon,FOREST,2,false,false,false,false
+Creature,Images/Forest_Pixies.png,Images/Piece_back.png,Pixies,FOREST,1,true,false,false,false
+Creature,Images/Forest_Unicorn.png,Images/Piece_back.png,Unicorn,FOREST,4,false,false,false,false
+Creature,Images/Forest_WalkingTree.png,Images/Piece_back.png,Walking Tree,FOREST,5,false,false,false,false
+Creature,Images/Forest_WildCat.png,Images/Piece_back.png,Wild Cat,FOREST,2,false,false,false,false
+Creature,Images/Forest_Wyvern.png,Images/Piece_back.png,Wyvern,FOREST,3,true,false,false,false
+Creature,Images/FrozenWaste_DragonRider.png,Images/Piece_back.png,Dragon Rider,FROZENWASTE,3,true,false,false,true
+Creature,Images/FrozenWaste_ElkHerd.png,Images/Piece_back.png,Elk Herd,FROZENWASTE,2,false,false,false,false
+Creature,Images/FrozenWaste_Eskimos.png,Images/Piece_back.png,Eskimos,FROZENWASTE,2,false,false,false,false
+Creature,Images/FrozenWaste_IceBats.png,Images/Piece_back.png,Ice Bats,FROZENWASTE,1,true,false,false,false
+Creature,Images/FrozenWaste_IceGiant.png,Images/Piece_back.png,Ice Giant,FROZENWASTE,5,false,false,false,true
+Creature,Images/FrozenWaste_IceWorm.png,Images/Piece_back.png,Iceworm,FROZENWASTE,4,false,true,false,false
+Creature,Images/FrozenWaste_KillerPenguins.png,Images/Piece_back.png,Killer Penguins,FROZENWASTE,3,false,false,false,false
+Creature,Images/FrozenWaste_KillerPuffins.png,Images/Piece_back.png,Killer Puffins,FROZENWASTE,2,true,false,false,false
+Creature,Images/FrozenWaste_Mammoth.png,Images/Piece_back.png,Mammoth,FROZENWASTE,5,false,false,true,false
+Creature,Images/FrozenWaste_NorthWind.png,Images/Piece_back.png,North Wind,FROZENWASTE,2,true,true,false,false
+Creature,Images/FrozenWaste_Walrus.png,Images/Piece_back.png,Walrus,FROZENWASTE,4,false,false,false,false
+Creature,Images/FrozenWaste_WhiteBear.png,Images/Piece_back.png,White Bear,FROZENWASTE,4,false,false,false,false
+Creature,Images/FrozenWaste_WhiteDragon.png,Images/Piece_back.png,White Dragon,FROZENWASTE,5,false,true,false,false
+Creature,Images/FrozenWaste_Wolves.png,Images/Piece_back.png,Wolves,FROZENWASTE,3,false,false,false,false
+Creature,Images/Jungle_BirdOfParadise.png,Images/Piece_back.png,Bird Of Paradise,JUNGLE,1,true,false,false,false
+Creature,Images/Jungle_CrawlingVines.png,Images/Piece_back.png,Crawling Vines,JUNGLE,6,false,false,false,false
+Creature,Images/Jungle_Crocodiles.png,Images/Piece_back.png,Crocodiles,JUNGLE,2,false,false,false,false
+Creature,Images/Jungle_Dinosaur.png,Images/Piece_back.png,Dinosaur,JUNGLE,4,false,false,false,false
+Creature,Images/Jungle_Elephant.png,Images/Piece_back.png,Elephant,JUNGLE,4,false,false,true,false
+Creature,Images/Jungle_GiantApe.png,Images/Piece_back.png,Giant Ape,JUNGLE,5,false,false,false,false
+Creature,Images/Jungle_GiantSnake.png,Images/Piece_back.png,Giant Snake,JUNGLE,3,false,false,false,false
+Creature,Images/Jungle_HeadHunter.png,Images/Piece_back.png,Head Hunter,JUNGLE,2,false,false,false,true
+Creature,Images/Jungle_PterodactylWarriors.png,Images/Piece_back.png,Pterodactyl Warriors,JUNGLE,2,true,false,false,true
+Creature,Images/Jungle_Pygmies.png,Images/Piece_back.png,Pygmies,JUNGLE,2,false,false,false,false
+Creature,Images/Jungle_Tigers.png,Images/Piece_back.png,Tigers,JUNGLE,3,false,false,false,false
+Creature,Images/Jungle_Watusi.png,Images/Piece_back.png,Watusi,JUNGLE,2,false,false,false,false
+Creature,Images/Jungle_WitchDoctor.png,Images/Piece_back.png,Witch Doctor,JUNGLE,2,false,true,false,false
+Creature,Images/Plains_BuffaloHerd3.png,Images/Piece_back.png,Buffalo Herd,PLAINS,3,false,false,false,false
+Creature,Images/Plains_BuffaloHerd4.png,Images/Piece_back.png,Buffalo Herd,PLAINS,4,false,false,false,false
+Creature,Images/Plains_Centaur.png,Images/Piece_back.png,Centaur,PLAINS,2,false,false,false,false
+Creature,Images/Plains_Dragonfly.png,Images/Piece_back.png,Dragonfly,PLAINS,2,true,false,false,false
+Creature,Images/Plains_Eagles.png,Images/Piece_back.png,Eagles,PLAINS,2,true,false,false,false
+Creature,Images/Plains_Farmers.png,Images/Piece_back.png,Farmers,PLAINS,1,false,false,false,false
+Creature,Images/Plains_FlyingBuffalo.png,Images/Piece_back.png,Flying Buffalo,PLAINS,2,true,false,false,false
+Creature,Images/Plains_GiantBeetle.png,Images/Piece_back.png,Giant Beetle,PLAINS,2,true,false,false,false
+Creature,Images/Plains_GreatHawk.png,Images/Piece_back.png,Great Hawk,PLAINS,2,true,false,false,false
+Creature,Images/Plains_GreatHunter.png,Images/Piece_back.png,Great Hunter,PLAINS,2,false,false,false,true
+Creature,Images/Plains_Gypsies1.png,Images/Piece_back.png,Gypsies,PLAINS,1,false,true,false,false
+Creature,Images/Plains_Gypsies2.png,Images/Piece_back.png,Gypsies,PLAINS,2,false,true,false,false
+Creature,Images/Plains_Hunters.png,Images/Piece_back.png,Hunters,PLAINS,1,false,false,false,true
+Creature,Images/Plains_LionPride.png,Images/Piece_back.png,Lion Pride,PLAINS,3,false,false,false,false
+Creature,Images/Plains_Pegasus.png,Images/Piece_back.png,Pegasus,PLAINS,2,true,false,false,false
+Creature,Images/Plains_Pterodactyl.png,Images/Piece_back.png,Pterodactyl,PLAINS,3,true,false,false,false
+Creature,Images/Plains_Tribesmen1.png,Images/Piece_back.png,Tribesman,PLAINS,1,false,false,false,true
+Creature,Images/Plains_Tribesmen2.png,Images/Piece_back.png,Tribesman,PLAINS,2,false,false,false,false
+Creature,Images/Plains_Villains.png,Images/Piece_back.png,Villains,PLAINS,2,false,false,false,false
+Creature,Images/Plains_WhiteKnight.png,Images/Piece_back.png,White Knight,PLAINS,3,false,false,true,false
+Creature,Images/Plains_WolfPack.png,Images/Piece_back.png,Wolf Pack,PLAINS,3,false,false,false,false
+Creature,Images/Swamp_Basilisk.png,Images/Piece_back.png,Basilisk,SWAMP,3,false,true,false,false
+Creature,Images/Swamp_BlackKnight.png,Images/Piece_back.png,Black Knight,SWAMP,3,false,false,true,false
+Creature,Images/Swamp_Crocodiles.png,Images/Piece_back.png,Crocodiles,SWAMP,2,false,false,false,false
+Creature,Images/Swamp_DarkWizard.png,Images/Piece_back.png,Dark Wizard,SWAMP,1,true,true,false,false
+Creature,Images/Swamp_Ghost.png,Images/Piece_back.png,Ghost,SWAMP,2,false,true,false,false
+Creature,Images/Swamp_GiantLizard.png,Images/Piece_back.png,Giant Lizard,SWAMP,2,false,false,false,false
+Creature,Images/Swamp_GiantMosquito.png,Images/Piece_back.png,Giant Mosquito,SWAMP,2,true,false,false,false
+Creature,Images/Swamp_GiantSnake.png,Images/Piece_back.png,Giant Snake,SWAMP,3,false,false,false,false
+Creature,Images/Swamp_HugeLeech.png,Images/Piece_back.png,Huge Leech,SWAMP,2,false,false,false,false
+Creature,Images/Swamp_Imp.png,Images/Piece_back.png,Imp,SWAMP,1,false,true,false,false
+Creature,Images/Swamp_Pirates.png,Images/Piece_back.png,Pirates,SWAMP,2,false,false,false,false
+Creature,Images/Swamp_PoisonFrog.png,Images/Piece_back.png,Poison Frog,SWAMP,1,false,false,false,false
+Creature,Images/Swamp_SlimeBeast.png,Images/Piece_back.png,Slime Beast,SWAMP,3,false,false,false,false
+Creature,Images/Swamp_Spirit.png,Images/Piece_back.png,Spirit,SWAMP,1,true,false,false,false
+Creature,Images/Swamp_SwampRat.png,Images/Piece_back.png,Swamp Rat,SWAMP,1,false,false,false,false
+Creature,Images/Swamp_Swampgas.png,Images/Piece_back.png,Swampgas,SWAMP,1,true,false,false,false
+Creature,Images/Swamp_Thing.png,Images/Piece_back.png,Thing,SWAMP,2,false,false,false,false
+Creature,Images/Swamp_VampireBat.png,Images/Piece_back.png,Vampire Bat,SWAMP,4,true,false,false,false
+Creature,Images/Swamp_WaterSnake.png,Images/Piece_back.png,Water Snake,SWAMP,1,false,false,false,false
+Creature,Images/Swamp_Will-o-wisp.png,Images/Piece_back.png,Will-o-wisp,SWAMP,2,false,true,false,false
+Creature,Images/Swamp_WingedPiranha.png,Images/Piece_back.png,Winged Piranha,SWAMP,3,true,false,false,false

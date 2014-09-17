@@ -1,0 +1,10 @@
+- movement
+	- between an owned tile to another owned tile
+	- between an owned tile to an unexplored tile
+- combat
+	- needs testing?
+- ~~attaching images to the creatures~~
+- recruiting paid recruits
+	- small fixes
+- ~~each player takes turns to add their fort to a tile they own~~
+- ~~visual representation of gold~~

@@ -1,0 +1,16 @@
+Income,Images/Mountains_CopperMine.png,Images/Creature_Back.png,Copper Mine,1,false,MOUNTAINS
+Income,Images/Treasure_Sapphire.png,Images/Creature_Back.png,Sapphire,5,true,nil
+Income,Images/Treasure_TreasureChest.png,Images/Creature_Back.png,Treasure Chest,20,true,nil
+Income,Images/Treasure_Ruby.png,Images/Creature_Back.png,Ruby,10,true,nil
+Income,Images/Treasure_Pearl.png,Images/Creature_Back.png,Pearl,5,true,nil
+Income,Images/FrozenWaste_OilField.png,Images/Creature_Back.png,Oil Field,3,false,FROZENWASTE
+Income,Images/Mountains_GoldMine.png,Images/Creature_Back.png,Gold Mine,3,false,MOUNTAINS
+Income,Images/Forest_Timberland.png,Images/Creature_Back.png,Timberland,1,false,FOREST
+Income,Images/Jungle_ElephantsGraveyard.png,Images/Creature_Back.png,Elephants Graveyard,3,false,JUNGLE
+Income,Images/Mountains_SilverMine.png,Images/Creature_Back.png,Silver Mine,2,false,MOUNTAINS
+Income,Images/Swamp_PeatBog.png,Images/Creature_Back.png,Peat Bog,1,false,SWAMP
+Income,Images/Desert_DiamonField.png,Images/Creature_Back.png,Diamond Field,1,false,DESERT
+Income,Images/Treasure_Emerald.png,Images/Creature_Back.png,Emerald,10,true,nil
+Income,Images/Treasure_Diamond.png,Images/Creature_Back.png,Diamond,5,true,nil
+Income,Images/Plains_Farmlands.png,Images/Creature_Back.png,Farmlands,1,false,PLAINS
+Income,Images/Mountains_SilverMine.png,Images/Creature_Back.png,Silver Mine,2,false,MOUNTAINS

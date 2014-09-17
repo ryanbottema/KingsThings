@@ -1,0 +1,119 @@
+###Terrains###
+Swamp
+Sea
+Plains
+FrozenWaste
+Desert
+Forest
+Mountains
+Desert
+Swamp
+Mountains
+Forest
+Desert
+Forest
+Jungle
+Mountains
+Plains
+Sea
+Mountains
+FrozenWaste
+Swamp
+Plains
+Sea
+Jungle
+FrozenWaste
+Plains
+FrozenWaste
+Swamp
+Desert
+Desert
+FrozenWaste
+Mountains
+Forest
+Swamp
+Sea
+Swamp
+Forest
+Plains
+###Player One Tiles###
+0,0,0
+1,0,-1
+2,0,-2
+3,0,-3
+2,1,-3
+1,1,-2
+0,2,-2
+1,2,-3
+###Player Two Tiles###
+0,-1,1
+1,-1,0
+2,-1,-1
+3,-1,-2
+3,-2,-1
+2,-2,0
+1,-2,1
+1,-3,2
+2,-3,1
+3,-3,0
+###Player Three Tiles###
+0,-2,2
+0,-3,3
+-1,-2,3
+-2,-1,3
+-1,-1,2
+-1,0,1
+###Player Four Tiles###
+-3,1,2
+-3,2,1
+-3,3,0
+-2,3,-1
+-1,3,-2
+-1,2,-1
+-2,2,0
+###Player One Towers###
+3,0,-3 Castle,false,false,true,3,Castle
+1,2,-3 Keep,false,false,false,2,Keep
+1,1,-2 Castle,false,false,true,3,Castle
+2,0,-2 Tower,false,false,false,1,Tower
+1,0,-1 Tower,false,false,false,1,Tower
+0,0,0 Keep,false,false,false,2,Keep
+###Player Two Towers###
+3,-1,-2 Keep,false,false,false,2,Keep
+2,-1,-1 Keep,false,false,false,2,Keep
+1,-1,0 Tower,false,false,false,1,Tower
+3,-2,-1 Tower,false,false,false,1,Tower
+2,-2,0 Keep,false,false,false,2,Keep
+1,-2,1 Castle,false,false,true,3,Castle
+###Player Three Towers###
+-1,-2,3 Keep,false,false,false,2,Keep
+-2,-1,3 Tower,false,false,false,1,Tower
+###Player Four Towers###
+-3,2,1 Keep,false,false,false,2,Keep
+-2,2,0 Tower,false,false,false,1,Tower
+-2,3,-1 Castle,false,false,true,3,Castle
+-3,3,0 Keep,false,false,false,2,Keep
+###Player One Pieces###
+1,0,-1~Creature,Images/Jungle_Crocodiles.png,Images/Piece_back.png,Crocodiles,JUNGLE,2,false,false,false,false
+1,0,-1~Creature,Images/Mountains_MoutainMen.png,Images/Piece_back.png,Mountain Men,MOUNTAIN,1,false,false,false,false
+1,0,-1~Creature,Images/Swamp_GiantLizard.png,Images/Piece_back.png,Giant Lizard,SWAMP,2,false,false,false,false
+1,0,-1~Creature,Images/Swamp_SlimeBeast.png,Images/Piece_back.png,Slime Beast,SWAMP,3,false,false,false,false
+1,0,-1~Creature,Images/Forest_KillerRaccoon.png,Images/Piece_back.png,Killer Racoon,FOREST,2,false,false,false,false
+1,0,-1~Creature,Images/Plains_Farmers.png,Images/Piece_back.png,Farmers,PLAINS,1,false,false,false,false
+1,0,-1~Creature,Images/Forest_WildCat.png,Images/Piece_back.png,Wild Cat,FOREST,2,false,false,false,false
+###Player Two Pieces###
+1,-1,0~Creature,Images/Swamp_Thing.png,Images/Piece_back.png,Thing,SWAMP,2,false,false,false,false
+1,-1,0~Creature,Images/Swamp_GiantLizard.png,Images/Piece_back.png,Giant Lizard,SWAMP,2,false,false,false,false
+1,-1,0~Creature,Images/Swamp_SwampRat.png,Images/Piece_back.png,Swamp Rat,SWAMP,1,false,false,false,false
+1,-1,0~Creature,Images/Forest_Unicorn.png,Images/Piece_back.png,Unicorn,FOREST,4,false,false,false,false
+1,-1,0~Creature,Images/Forest_Bears.png,Images/Piece_back.png,Bears,FOREST,2,false,false,false,false
+1,-1,0~Creature,Images/Desert_GiantSpider.png,Images/Piece_back.png,Giant Spider,DESERT,1,false,false,false,false
+1,-1,0~Creature,Images/Desert_CamelCorps.png,Images/Piece_back.png,Camel Corps,DESERT,3,false,false,false,false
+1,-1,0~Creature,Images/Desert_Sandworm.png,Images/Piece_back.png,Sandworm,DESERT,3,false,false,false,false
+###Player Three Pieces###
+###Player Four Pieces###
+###Player One Rack###
+###Player Two Rack###
+###Player Three Rack###
+###Player Four Rack###
+###END OF FILE###

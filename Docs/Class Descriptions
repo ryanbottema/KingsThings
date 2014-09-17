@@ -1,0 +1,54 @@
+Second Draft
+=============
+
+TERRAIN
+(Terrain.java)
+ - Type (string): Jungle, Frozen Waste, Forest, Plains, Swamp, Mountain, Desert, Sea
+ 	- Designates the type of the terrain tile
+ - Controlled (boolean)
+ 	- True if owned by a player, false otherwise
+
+PLAYING PIECES
+(Piece.java)
+ - Base Class
+ - Type (string): Creatures, Special Income, Magic Items, Treasures, Gold, Random Events, Forts, Control Markers, Special Characters
+ - Front (string): What is displayed on the front of the piece
+ - Back (string): What is displayed on the back of the piece
+
+CREATURES
+(Creature.java)
+ - Sub class of PLAYING PIECES
+ - Names (static string arraylist): An arraylist of all creature names
+ - Types (static string arraylist): An arraylist of all creature types
+ - Combat Values (static int arraylist): An arraylist of all creature combat values
+ - Flying (static bool arraylist): An arraylist of all creatures flying capabilities (true for able to fly, otherwise false)
+ - Magic Capabilities (static bool arraylist): An arraylist of all creatures magic capabilities (true for able to use magic, otherwise false)
+ - Charge Capabilities (static bool arraylist): An arraylist of all creatures charge capabilities (true for able to charge, otherwise false)
+ - Ranged Capabilities (static bool arraylist): An arraylist of all creatures ranged capabilities (true for able to ranged attack, otherwise false)
+ - Special Ability (static bool arraylist): An arraylist of all creatures ability to use special abilities (true for able, otherwise false)
+ - name (string)
+ - type (string)
+ - combat value (int)
+ - flying (bool)
+ - magic (bool)
+ - charge (bool)
+ - ranged (bool)
+ - special (bool)
+
+DICE
+(Dice.java)
+ - int roll(): generates a random number from 1-6
+
+CUP
+(TheCup.java)
+ - Data structure to hold all of the current pieces in the cup
+ - method to initialize the cup with all of the pieces
+ - method to add a piece to the cup
+ - method to remove pieces from the cup
+
+How the creatures are chosen from the cup
+-----------------------------------------
+1) Generate a random number between 1 and the number of creatures left in the cup
+2) The "thing" is then added to an array containing all of the other pieces being drawn from the cup in this round
+3) The "thing" is removed from the remainingPieces data structure
+4) The data structure of all "things" being drawn gets returned.

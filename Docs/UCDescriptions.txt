@@ -1,0 +1,29 @@
+UC-01: Player Plays Kings 'n Things
+Description: This use case describes when a new game of Kings 'n Things is started.
+Actors: Players, System
+Pre-Condition: Game loaded successfully, players select name and initial order of turns
+Main Sequence: 1. System creates playing board.
+               2. 1-4 Players pick starting locations in order.
+               3. 1-4 Players select their starting hexes.
+               4. 1-4 Players take 10 gold, 1 tower, 10 things from the cup.
+               5. 1-4 Players place things on board.
+               6. 1-4 Players play a turn according to their turn order.
+               7. System determines if the game is over.
+Post-Condition: A game has ended.
+Resulting Event: Game ends.
+
+UC-02: Player Plays A Turn
+Description: This use case describes the steps of a player playing a turn in Kings 'n Things
+Actors: Players
+Pre-Condition: Previous turns have ended successfully and the game is not over.
+Main Sequence: 1. Players Acquires Gold
+                  a. System verifies that the player acquires correct amount based on the pieces they own.
+               2. Players Recruits Things.
+                  a.System verifies that they are recruiting the correct amount.
+               3. Players Moves Things around the board.
+                  a. System verifies that the pieces are being moved correctly.
+               4. Players Enters Combat.
+                  a. System resolves combat between players and a hex which isn't controlled
+               5. Player order changes.
+Post-Condition: The Player Order Changes and a turn ends.
+Resulting Event: Player Turn Ends.
